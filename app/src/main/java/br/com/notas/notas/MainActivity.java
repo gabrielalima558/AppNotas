@@ -22,7 +22,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-
+/*Notas*/
     ListView lst_notas;
     List<Integer>lstIdNotas = new ArrayList<>();
     List<String>lstNotas = new ArrayList<>();
